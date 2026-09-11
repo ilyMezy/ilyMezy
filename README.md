@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">𝕸𝖊𝖟𝖞</h1>
 
-<!--
-**ilyMezy/ilyMezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <sub>java · c · c++ · c# · python</sub>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘
+
+random stuff.
+
+### 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘
+
+`Java` · `C` · `C++` · `C#` · `Python`
+
+---
+
+<p align="center">
+  <sub>nothing serious here.</sub>
+</p>
